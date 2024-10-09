@@ -1,5 +1,6 @@
 Hi there 👋, I'm Christian Serrano!
-I'm a 3rd year BSCS student with a passion for computer hardware and all things tech. While I'm still building my skills in coding, I’m more at home tinkering with computers and exploring the technical side of things.
+I'm a 3rd year BSCS student with a passion for computer hardware and all things tech. While I'm still building my skills in coding, 
+I’m more at home tinkering with computers and exploring the technical side of things.
 
 🧑‍💻 About Me
 🎓 I’m currently studying Bachelor of Science in Computer Science (BSCS), 3rd year
