@@ -15,7 +15,7 @@ While I'm still building my skills in coding, I’m more at home tinkering with 
 - **Software:** Basic coding (learning more)  
 - **Other Interests:** Tech gadgets, gaming
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - Learn more about **programming** and complete some coding projects  
 - Continue improving my **hardware skills** and help others with their PC setups
 
